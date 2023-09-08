@@ -1,7 +1,42 @@
-body {
-padding-top: 60px;
+.container {
+  background-color: #fdfdf5;
 }
 
-h1{
-    text-align: center;
+h5 {
+  padding-top: 40px;
+  text-align: center;
+  opacity: 80%;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 90px;
+  padding-top: 100px;
+}
+
+p {
+  text-align: center;
+}
+
+.btn {
+  text-decoration: none;
+  color: black !important;
+}
+
+main {
+  padding: 40px;
+  background: #edead7;
+}
+
+.portfolio {
+  display: block;
+  margin: 0 auto;
+}
+.contact-info p h5{
+text-align: center;
+
+}
+.contact-info{
+    background-color:  #edead7;
+    padding: 150px;
 }
